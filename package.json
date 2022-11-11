@@ -1,0 +1,12 @@
+{
+  "name": "NodeJs-Criando-API",
+  "version": "1.0.0",
+  "description": "Projeto para desenvolver uma API a partir do NodeJs",
+  "main": "index.js",
+  "repository": "https://github.com/TiagoUniverse/NodeJs-Criando-API",
+  "author": "Tiago César da Silva Lopes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
